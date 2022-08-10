@@ -1,3 +1,3 @@
 #KoKoa-Clone Course
 
-CSS got much better!
+HTML & CSS course
